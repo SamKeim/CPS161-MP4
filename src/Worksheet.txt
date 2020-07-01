@@ -1,0 +1,63 @@
+MP4 worksheet
+
+Comments:
+I didn't see the Roman Calculator starter until after I had finished the problem. Sorry.
+
+
+***************** roman_calculator   *****************
+roman_calculator  output as specified in the MP4 homework.
+____________________________________
+
+Operator ( + - * / ) or EXIT : +
+Enter number: M
+Enter number: mCxV
+Answer : MMCXV
+
+Operator ( + - * / ) or EXIT : -
+Enter number: XX
+Enter number: v
+Answer : XV
+
+Operator ( + - * / ) or EXIT : *
+Enter number: x
+Enter number: lx
+Answer : DC
+
+Operator ( + - * / ) or EXIT : /
+Enter number: dc
+Enter number: x
+Answer : LX
+
+Operator ( + - * / ) or EXIT : +
+Enter number: mmc
+Enter number: lxvii
+Answer : MMCLXVII
+
+Operator ( + - * / ) or EXIT : -
+Enter number: m
+Enter number: cxi
+Answer : DCCCLXXXVIIII
+
+Operator ( + - * / ) or EXIT : ^
+Invalid Operand. Please try again.
+Operator ( + - * / ) or EXIT : +
+Enter number: axi
+Invalid number. Please try again.
+Enter number: xi
+Enter number: xi8i
+Invalid number. Please try again.
+Enter number: xii
+Answer : XXIII
+
+Operator ( + - * / ) or EXIT : exit
+Thank you. Goodbye.
+
+*****************Book    *****************
+Book output as specified in the MP4 homework.
+____________________________________
+
+Book[Harry Potter and the Sorcerer's Stone by JK Rowling(birthday: 1965-07-31) isbn=B017V41MVQ, price=11.99]
+Book[Harry Potter and the Chamber of Secrets by JK Rowling(birthday: 1965-07-31) isbn=B017V4IPPO, price=13.00]
+They are not the same book.
+
+
