@@ -63,7 +63,7 @@ public class Book {
 		
 		return validName && validIsbn && validPrice && validAuthor;
 	}
-	
+
 	@Override
 	public String toString() {
 		return String.format(
